@@ -158,7 +158,8 @@ header .row {
     border-color: rgba(160, 174, 192);
 }
 
-.header__email--input:focus, .header__email--input:active {
+.header__email--input:focus, 
+.header__email--input:active {
     outline: transparent solid 2px;
     outline-offset: 2px;
     border-color: rgba(100, 21, 255);
