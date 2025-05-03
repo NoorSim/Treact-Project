@@ -1128,6 +1128,9 @@ footer {
     .btn__menu {
         display: block;
     }
+    .nav__links {
+        display: none;
+    }
     h1 {
         font-size: 30px;
     }
@@ -1167,9 +1170,6 @@ footer {
     }
     .feature__para {
         max-width: none;
-    }
-    .btn__menu {
-        display: block;
     }
     header .row {
         flex-direction: column;
